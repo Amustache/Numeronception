@@ -1,2 +1,2 @@
 # Numeronception
-Gamification of digital szstems design
+Gamification of digital systems design
